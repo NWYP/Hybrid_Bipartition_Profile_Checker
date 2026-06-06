@@ -1,0 +1,24 @@
+# Compiled files
+target/
+*.class
+*.jar
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Data files (ne pas pusher les données volumineuses)
+data/original/*.dat
+data/results/
+
+# Logs
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
